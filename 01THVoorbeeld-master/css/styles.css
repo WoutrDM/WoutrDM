@@ -1,0 +1,17 @@
+body{
+    /*lettertype*/
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    /*achtergrondkleur*/
+    background-color:cornsilk;
+    /*centreren*/
+    width: 850px;
+    margin: 10px auto;
+}
+img{
+    /*logo onder tekst */
+    display: block;
+    /*breedte wijzigen*/
+    width: 250px;
+    /*extra ruimte*/
+    padding: 10px;
+}
